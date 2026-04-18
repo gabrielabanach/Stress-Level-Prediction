@@ -7,4 +7,5 @@ A key turning point in the project was identifying mental_fatigue_score as a fea
 <img width="776" height="455" alt="image" src="https://github.com/user-attachments/assets/607d9471-e1d9-4fbd-b330-42270168a18f" />
 
 **Data Source:** The dataset was obtained from Kaggle.
+
 **Disclaimer:** This project was developed for **educational purposes** only.
